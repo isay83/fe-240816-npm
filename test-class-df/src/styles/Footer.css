@@ -1,0 +1,23 @@
+.footer {
+    width: 98%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    border-radius: 10px;
+    background: #11111f;
+    padding: 0 20px;
+    color: white;
+}
+
+.footer-nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.footer-nav a:hover {
+    color: #606060;
+}
